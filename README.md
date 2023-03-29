@@ -1,5 +1,4 @@
 # Welcome to Ricardo's Portfolio
-Technical Writing
 
 ## In This Page
 * [Welcome!](#welcome)
