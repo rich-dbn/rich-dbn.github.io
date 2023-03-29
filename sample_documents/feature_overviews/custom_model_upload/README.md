@@ -172,18 +172,18 @@ GET /results/{task_id}
 The endpoint does not have any payload requirements, and your request triggers one of the following responses:
 
 ```sh
-    200: SUCCESS
-    [THIS IS INTELLECTUAL PROPERTY]
+200: SUCCESS
+[THIS IS INTELLECTUAL PROPERTY]
 ```
 
 ```sh
-    202: STARTED
-    [THIS IS INTELLECTUAL PROPERTY]
+202: STARTED
+[THIS IS INTELLECTUAL PROPERTY]
 ```
 
 ```sh
-    401: FAILURE
-    [THIS IS INTELLECTUAL PROPERTY]
+401: FAILURE
+[THIS IS INTELLECTUAL PROPERTY]
 ```
 
 After you verify your model works via API, you can promote it to UAT environment using a pre-built <a href="">Azure DevOps Pipeline</a> which requires two parameters from you: `MODEL_NAME` and `MODEL_VERSION`.  
