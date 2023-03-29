@@ -14,15 +14,16 @@ Let’s build something amazing together!
 ## Services
 The </b>AI System</b> provides the following services through the AI System’s API.
 
-<ul><li><a href"">Custom Model Upload</a></li>
-  <li><a href"">Custom Model Builder</a></li>
-  <li><a href"">OCR and Text Extraction</a></li>
-  <li><a href"">PDF Info Extraction</a></li>
-  <li><a href"">Billing</a></li>
-  <li><a href"">Sentiment Analysis</a></li>
-  <li><a href"">Table Extraction</a></li>
-  <li><a href"">Translation Service</a></li>
-  <li><a href"">Watermark Service</a></li>
+<ul>
+  <li><a href="">Custom Model Upload</a></li>
+  <li><a href="">Custom Model Builder</a></li>
+  <li><a href="">OCR and Text Extraction</a></li>
+  <li><a href="">PDF Info Extraction</a></li>
+  <li><a href="">Billing</a></li>
+  <li><a href="">Sentiment Analysis</a></li>
+  <li><a href="">Table Extraction</a></li>
+  <li><a href="">Translation Service</a></li>
+  <li><a href="">Watermark Service</a></li>
 </ul>
  
 ## Product Roeadmap
