@@ -19,7 +19,7 @@ Before you contribute with the AI System team, you must meet the following requi
 - You must have access to the <a href="">DevOps Repository</a> to download the <a href="">Custom Model Upload</a> directory.
 - You must authorize your action in the <a href="">AI System API</a> with an `API_KEY`. To get your `API_KEY`, read the <a href="">Onboarding</a> guide.
 
-> <b style="color:#FFE600;">Important:</b><br>
+> <b>Important:</b><br>
 You will upload your code to a repository that supports DVC and git Large File Support (LFS) for handling data files such as configuration files and model binaries. <b>Do not</b> upload such files without DVC or git LFS.
 
 ## Step-by-Step Guide
@@ -45,7 +45,7 @@ Before you begin, ensure that your model has a unique descriptive name to use as
 1. Rename the `new_custom_model` folder with the value you changed in the `MODEL_NAME` attribute during the previous step.
 1. Open the `setup.py` file in the `src` directory, and rename the `PKG_DIR_NAME` attribute to the name of your model.
     
-> <b style="color:#FFE600;">Important:</b><br>
+> <b>Important:</b><br>
 In steps 5 and 6, you change the attribute in `__init__.py/MODEL_NAME` and rename the `new_custom_model` folder. Ensure that your changes have the same name and use only lower case letters and underscores.
 
 ### Dependencies
@@ -181,7 +181,7 @@ The endpoint does not have any payload requirements, and your request triggers o
     [THIS IS INTELLECTUAL PROPERTY]
 ```
 
-```json
+```sh
     401: FAILURE
     [THIS IS INTELLECTUAL PROPERTY]
 ```
